@@ -1,5 +1,2 @@
 # GoreceliZamanKavrami
-    Yorum adında bir class oluşturuldu.
-    Yazan kişinin adı, soyadı, yorumun yazılma tarihi tutuldu.
-    Göreceli zaman adında bir değişken yazılma tarihine göre
-    "1 dk önce", "Şimdi","1 saat önce" gibi değer döndürsün
+Kullanıcı yorum yaptığında o an yaptığı yorumu saat olarak kaydeder ve günümüz olan saatin farkını alarak eğer kullanıcı 0-20 sn arasında yorum yaptıysa 'Şimdi', 60 sn'yi geçtiyse yorum '1 dk önce', 1 gün geçmişse '1 gün önce' yazmaktadır. 
